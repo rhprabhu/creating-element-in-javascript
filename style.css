@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+display: flex;
+flex-direction: column;
+align-items: center;
+height: 100vh;
+
+justify-content: center;
+}
+
+.container{
+    background: #C3EDEA;
+padding: 20px;
+}
+
+
+.container2{
+    background: #E8505B;
+}
+
